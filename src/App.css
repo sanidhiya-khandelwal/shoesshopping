@@ -1,0 +1,324 @@
+.main {
+  background: linear-gradient(180deg, #2d55ff, white);
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.header {
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerimg {
+  transition: 0.5s;
+}
+
+.headerimg:hover {
+  transition: 0.5s;
+  transform: scale(1.5);
+}
+
+
+.h1header {
+  font-weight: 900 !important;
+  text-align: center;
+  color: white;
+}
+
+Button {
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+}
+
+.colbody3 {
+  margin-left: 30px;
+  padding-top: 70px;
+}
+
+/* rotate shoe */
+.shoe {
+  transition: 0.5s;
+}
+
+.shoe:hover {
+  transition: 0.5s;
+  transition-timing-function: ease;
+  transform: rotate(-25deg);
+}
+
+
+/* POPULAR SALES */
+.h1popularsales {
+  font-weight: 900;
+  font-size: 270%;
+  color: black;
+}
+
+.popularsalescard {
+  border: 1px solid none;
+  border-radius: 15px;
+  transition: 0.5s;
+
+}
+
+.popularsalescard:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.styleshowpop1 {
+  width: 180px;
+  transform: rotate(-25deg);
+  transition: 0.5s;
+}
+
+.styleshowpop1:hover {
+  width: 180px;
+  transition: 0.5s;
+  transform: rotate(-10deg);
+
+}
+
+.pop1 {
+  background: linear-gradient(180deg, #0000CD 60%, #3177d2);
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 7px;
+}
+
+.pop2 {
+  background: linear-gradient(180deg, #f34607 60%, #FA8072);
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 7px;
+}
+
+.pop3 {
+  background: linear-gradient(180deg, #6A5ACD 60%, #9b8eed);
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 7px;
+}
+
+#cost {
+  border: 1px solid none;
+  padding: 2px;
+  border-radius: 5px;
+  background-color: lightsteelblue;
+  box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+#btn {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  width: 200px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+#btn:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+
+
+/* Top Rated Sales */
+.TopRatedSales {
+  text-align: center;
+  transition: 0.5s;
+  color: white;
+}
+
+.TopRatedSales:hover {
+  text-align: center;
+  border-radius: 15px;
+  padding: 10px;
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.bagcart {
+  width: 35px;
+  transition: 0.3s;
+}
+
+.bagcart:hover {
+  cursor: pointer;
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
+.TrsImage {
+  width: 130px;
+  /* margin-bottom: 5px; */
+  transition: 0.5s;
+}
+
+.TrsImage:hover {
+  transform: rotate(-25deg);
+  transition: 0.5s;
+}
+
+.btn1 {
+  border-radius: 5px;
+  transition: 0.3s;
+  background-color: wheat;
+}
+
+.btn1:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+
+.TRS1 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #4169E1 60%, #483D8B);
+}
+
+.TRS2 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #228B22 60%, #32CD32);
+}
+
+.TRS3 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #FF0000 60%, #FF6347);
+}
+
+.TRS4 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #FF8C00 60%, #FFA500);
+}
+
+.TRS5 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #556B2F 60%, #FFA500);
+}
+
+.TRS6 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #1E90FF 60%, #87CEFA);
+}
+
+.TRS7 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #FFA500 60%, #FFD700);
+}
+
+.TRS8 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #A52A2A 60%, #CD5C5C);
+}
+
+.TRS9 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #4169E1 60%, #6495ED);
+}
+
+.TRS10 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #00FF00 60%, #00FF7F);
+}
+
+.TRS11 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #000000 60%, #696969);
+}
+
+.TRS12 {
+  border-radius: 15px;
+  height: 235px;
+  background: linear-gradient(180deg, #000080 60%, #6495ED);
+}
+
+
+/* Faetures */
+.featureimg {
+  margin-left: 5cm;
+  margin-top: 0cm;
+  transform: rotate(25deg);
+  transition: 0.5s;
+}
+
+.featureimg:hover {
+  transform: rotate(10deg);
+  transition: 0.5s;
+}
+
+/* Carousel */
+.carouselimg {
+  /* object-fit: cover; */
+  max-width: 80%;
+  max-height: 80%;
+  border-radius: 25px;
+  margin: 20px 0 auto auto;
+}
+
+.outercarousel {
+  color: black !important;
+  border: 1px solid red;
+  margin-top: 3cm;
+  ;
+  /* padding: 100px; */
+}
+
+/* FOOTER */
+.end {
+  background: linear-gradient(180deg, #1E90FF 20%, #00BFFF 50%, #87CEFA);
+}
+
+.section1 {
+  padding: 15px;
+  color: white;
+}
+
+.section1 a {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+/* .section1 a:visited {
+  color: yellow;
+} */
+
+.section1 a:hover {
+  color: #A52A2A;
+}
+
+.section1 a:active {
+  color: black;
+}
+
+
+
+
+.footer {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin-left: 6cm;
+
+}
+
+.h4 {
+  font-weight: 900 !important;
+  /* padding: 15px; */
+}

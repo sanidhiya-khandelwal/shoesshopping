@@ -1,0 +1,38 @@
+ <Container>
+                <Row style={{ justifyContent: 'space-between' }}>
+                    <Col sm={2} className='TopRatedSales TRS1'>
+                        <h6>Nike Air Low Premium</h6>
+                        <h6>MEN Running Shoes</h6>
+                        {/* <h6><span id="cost">$150</span> <Star />5+</h6> */}
+                        <h6><span id="cost">$150</span> &nbsp; 5+</h6>
+                        <h6><img src=".\src\assets\General\bagcart.png" alt="bagcart" className='bagcart' /> &nbsp;&nbsp;&nbsp; <button className='btn1'>Buy Now</button></h6>
+                        <img src=".\src\assets\TopRatedSales\TRS1.png" alt="" className='TrsImage' />
+                    </Col>
+                    <Col sm={2} className='TopRatedSales TRS2'>
+                        <h6>Nike Air Force Green</h6>
+                        <h6>MEN Running Shoes</h6>
+                        {/* <h6><span id="cost">$150</span> <Star />5+</h6> */}
+                        <h6><span id="cost">$150</span> &nbsp; 5+</h6>
+                        <h6><img src=".\src\assets\General\bagcart.png" alt="bagcart" className='bagcart' /> &nbsp;&nbsp;&nbsp; <button className='btn1'>Buy Now</button></h6>
+                        <img src=".\src\assets\TopRatedSales\TRS2.png" alt="" className='TrsImage' />
+                    </Col>
+                    <Col sm={2} className='TopRatedSales TRS3'>
+                        <h6>Nike Air Force Green</h6>
+                        <h6>MEN Running Shoes</h6>
+                        {/* <h6><span id="cost">$150</span> <Star />5+</h6> */}
+                        <h6><span id="cost">$150</span> &nbsp; 5+</h6>
+                        <h6><img src=".\src\assets\General\bagcart.png" alt="bagcart" className='bagcart' /> &nbsp;&nbsp;&nbsp; <button className='btn1'>Buy Now</button></h6>
+                        <img src=".\src\assets\TopRatedSales\TRS3.png" alt="" className='TrsImage' />
+                    </Col>
+                    <Col sm={2} className='TopRatedSales TRS4'>
+                        <h6>Nike Air Force Green</h6>
+                        <h6>MEN Running Shoes</h6>
+                        {/* <h6><span id="cost">$150</span> <Star />5+</h6> */}
+                        <h6><span id="cost">$150</span> &nbsp; 5+</h6>
+                        <h6><img src=".\src\assets\General\bagcart.png" alt="bagcart" className='bagcart' /> &nbsp;&nbsp;&nbsp; <button className='btn1'>Buy Now</button></h6>
+                        <img src=".\src\assets\TopRatedSales\TRS4.png" alt="" className='TrsImage' />
+                    </Col>
+                </Row>
+                <Row>2</Row>
+                <Row>3</Row>
+            </Container>
